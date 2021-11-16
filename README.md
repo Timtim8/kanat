@@ -8,7 +8,6 @@
 	href="style.css">
 </head>
 <body>
-<h1  class="tab" style="color:blue"><b>Навигатор</b></h1>
 <table class="td">
 <tr>
 <td colspan="3" class="header"><strong>Навигатор</strong><br>

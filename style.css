@@ -1,0 +1,8 @@
+.header {height:60px; background-color:#00ffff; padding:20px; text-align:center}
+.left_col {width:120px; height:460px; background-color:#00ff00; padding:55px; vertical-align:top}
+.center_col {background-color:#00ff00; padding:15px; vertical-align:top}
+.right_col {width:120px; background-color:#00ffff; padding:15px; vertical-align:top}
+.footer {padding:10px 0 10px 20px; background-color:#717dc9; font-size:13px}
+.tab {text-align:right}
+.td {padding:0; border-spacing:0; width:100%}
+

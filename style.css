@@ -1,3 +1,11 @@
+@media screen and (min-width: 1440px) and (max-width: 1599px){
+320 px;
+480 px;
+600 px;
+768 px;
+1024 px;
+1280 px;
+     }
 .header {height:60px; background-color:#00ffff; padding:20px; text-align:center}
 .left_col {width:120px; height:460px; background-color:#00ff00; padding:55px; vertical-align:top}
 .center_col {background-color:#00ff00; padding:15px; vertical-align:top}

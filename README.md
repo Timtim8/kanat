@@ -7,7 +7,7 @@
 	type="text/css" 
 	href="style.css">
 </head>
-<body>
+<body style="max-width:1500px;">
 <table class="td">
 <tr>
 <td colspan="3" class="header"><strong>Навигатор</strong><br>
